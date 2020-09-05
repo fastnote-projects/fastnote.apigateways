@@ -1,0 +1,4 @@
+src/FastNote.ApiGateways/bin/*
+src/FastNote.ApiGateways/obj/*
+src/FastNote.ApiGateways.Tests/bin/*
+src/FastNote.ApiGateways.Tests/obj/*
